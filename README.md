@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:8B5A2B,100:6A2C55&text=Manju%20Swaroop&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Building%20ML%20models,%20data%20pipelines%20and%20intelligent%20AI%20systems&descSize=18&descAlignY=60&section=header" alt="Manju Swaroop" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Manju Swaroop</h1>
 <h3 align="center">Welcome to my profile</h3>
 
 <p align="center">
