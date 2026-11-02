@@ -9,6 +9,7 @@
 <p align="center">
   <a href="mailto:manjuswaroop03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/manju-swaroop-v/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.hackerrank.com/profile/manjuswaroop03"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
   <img src="https://komarev.com/ghpvc/?username=manjuv03&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
 
@@ -33,7 +34,7 @@ Before my master's I spent two years as an **Associate Consultant at EY**, valid
 
 I've published two research papers, on deep learning for sensitive data classification and on gene expression analysis for leukemia detection, and I'm a **Databricks Certified Data Engineer Associate**.
 
-> 💼 **Open to:** AI Engineer, Machine Learning Engineer, Data Scientist and Data Engineer roles
+> 💼 **Open to:** Data Scientist, Data Engineer, AI Engineer and Machine Learning Engineer roles
 >
 > 🤝 **Let's collaborate:** I'm always happy to team up on AI, ML and data projects, research or open-source work. Feel free to connect on [LinkedIn](https://www.linkedin.com/in/manju-swaroop-v/) or drop me an [email](mailto:manjuswaroop03@gmail.com).
 
@@ -241,7 +242,7 @@ I've published two research papers, on deep learning for sensitive data classifi
       <ul>
         <li>Presented <i>Gene Expression Analysis for Leukemia</i> at <b>ICCCNT 2023, IIT Delhi</b></li>
         <li>Published <i>Sensitive Data Classification using Deep Network with Sequential Models</i> at <b>ICRTC 2023, Ghaziabad</b></li>
-        <li><b>NASA International Space Apps Global Nominee</b> (2022)</li>
+        <li><b>NASA International Space Apps Global Nominee</b> (2022 and 2023)</li>
         <li><b>1st place, Altair Expo</b>, Dayananda Sagar University<br/><sub>Predictive churn modelling in RapidMiner</sub></li>
         <li><b>Neo Coding Arena Challenge</b> winner</li>
       </ul>
