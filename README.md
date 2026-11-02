@@ -285,7 +285,7 @@ I've published two research papers, on deep learning for sensitive data classifi
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:1D7A85,50:3F51A3,100:8A2BA8&section=footer&text=%22Turning%20raw%20data%20into%20real%20decisions,%20one%20model%20at%20a%20time.%22&fontColor=ffffff&fontSize=24&fontAlignY=68" alt="Turning raw data into real decisions, one model at a time." width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:1D7A85,50:3F51A3,100:8A2BA8&section=footer&text=%22Turning%20raw%20data%20into%20real%20decisions,%20one%20model%20at%20a%20time.%22&fontColor=ffffff&fontSize=16&fontAlignY=70" alt="Turning raw data into real decisions, one model at a time." width="100%" />
 </p>
 
 <p align="center">Thanks for stopping by! If you find a project useful, a ⭐ is always appreciated. It helps others discover the work too.</p>
