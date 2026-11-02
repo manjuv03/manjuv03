@@ -50,7 +50,7 @@ I've published two research papers, on deep learning for sensitive data classifi
   <tr>
     <td><b>Personalised AI Assistant with Contextual Recall</b><br/><sub>Python · LangChain · LangGraph · ChromaDB · FastAPI</sub></td>
     <td>Conversational AI agent that gives personalised, coherent responses by combining vector-based memory (ChromaDB) with contextual memory, improving response continuity by over 85%. Runs locally behind FastAPI with real-time interaction logs and memory visualisations, averaging sub-300ms responses across 100+ test cases.</td>
-    <td align="center"><a href="https://github.com/manjuv03/Personalized-AI-Assistant-with-Contextual-Recall"><img src="https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a></td>
+    <td align="center">—</td>
   </tr>
 </table>
 
@@ -281,6 +281,15 @@ I've published two research papers, on deep learning for sensitive data classifi
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manjuv03&theme=transparent" alt="GitHub Stats" height="165" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manjuv03&theme=transparent" alt="Top Languages" height="165" />
+</p>
+
+## 📫 Let's Talk
+
+Whether you're hiring, building something interesting, or just want to geek out about distributed systems or AI — hit me up.
+
+<p align="center">
+  <a href="mailto:manjuswaroop03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/manju-swaroop-v/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
