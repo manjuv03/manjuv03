@@ -266,4 +266,10 @@ I've published two research papers, on deep learning for sensitive data classifi
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manjuv03&theme=transparent" alt="Top Languages" height="165" />
 </p>
 
-<p align="center"><sub>Thanks for stopping by. Feel free to reach out through any of the links at the top. 🙌</sub></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4A9A9A,50:4E5FA0,100:9B2DAE&section=footer" alt="" width="100%" />
+</p>
+
+<p align="center"><i>"Turning raw data into real decisions, one model at a time."</i></p>
+
+<p align="center">Thanks for stopping by! If you find a project useful, a ⭐ is always appreciated. It helps others discover the work too.</p>
