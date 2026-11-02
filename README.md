@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:8B5A2B,100:6A2C55&text=Manju%20Swaroop&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Building%20ML%20models,%20data%20pipelines%20and%20intelligent%20AI%20systems&descSize=18&descAlignY=60&section=header" alt="Manju Swaroop" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1D7A85,50:3F51A3,100:8A2BA8&text=Manju%20Swaroop&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Building%20ML%20models,%20data%20pipelines%20and%20intelligent%20AI%20systems&descSize=18&descAlignY=60&section=header" alt="Manju Swaroop" width="100%" />
 </p>
 
 <h3 align="center">Welcome to my profile</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Machine+Learning+%C2%B7+Data+Engineering+%C2%B7+Agentic+AI;MSc+Data+Science+%40+Queen+Mary+University+of+London;Ex-Associate+Consultant+%40+EY;Open+to+AI+and+ML+roles" alt="Machine Learning · Data Engineering · Agentic AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Machine+Learning+%C2%B7+Data+Engineering+%C2%B7+Agentic+AI;MSc+Data+Science+%40+Queen+Mary+University+of+London;Ex-Associate+Consultant+%40+EY;Open+to+Data+and+AI+roles" alt="Machine Learning · Data Engineering · Agentic AI" />
 </p>
 
 <p align="center">📍 London, UK</p>
@@ -46,8 +46,8 @@ I've published two research papers, on deep learning for sensitive data classifi
 
 ### Agentic AI & LLMs
 
-<table>
-  <tr><th>Project</th><th>Details</th><th>Link</th></tr>
+<table width="100%">
+  <tr><th width="30%">Project</th><th width="60%">Details</th><th width="10%">Link</th></tr>
   <tr>
     <td><b>Personalised AI Assistant with Contextual Recall</b><br/><sub>Python · LangChain · LangGraph · ChromaDB · FastAPI</sub></td>
     <td>Conversational AI agent that gives personalised, coherent responses by combining vector-based memory (ChromaDB) with contextual memory, improving response continuity by over 85%. Runs locally behind FastAPI with real-time interaction logs and memory visualisations, averaging sub-300ms responses across 100+ test cases.</td>
@@ -57,8 +57,8 @@ I've published two research papers, on deep learning for sensitive data classifi
 
 ### Deep Learning
 
-<table>
-  <tr><th>Project</th><th>Details</th><th>Link</th></tr>
+<table width="100%">
+  <tr><th width="30%">Project</th><th width="60%">Details</th><th width="10%">Link</th></tr>
   <tr>
     <td><b>Sensitive Data Classification using Deep Network with Sequential Models</b><br/><sub>Python · TensorFlow · CNN · LSTM · SVM · Logistic Regression · scikit-learn</sub><br/><sub><i>📄 Published at ICRTC 2023</i></sub></td>
     <td>Deep learning models (CNN and LSTM) fine-tuned to separate sensitive from non-sensitive data. Benchmarked against SVM and Logistic Regression: the CNN reached 97.5% accuracy vs 84.02% for SVM, more than 13.5 points ahead of traditional methods. Trained for 500 epochs with binary cross-entropy and Adam, giving smooth convergence and limited overfitting.</td>
@@ -68,8 +68,8 @@ I've published two research papers, on deep learning for sensitive data classifi
 
 ### Machine Learning
 
-<table>
-  <tr><th>Project</th><th>Details</th><th>Link</th></tr>
+<table width="100%">
+  <tr><th width="30%">Project</th><th width="60%">Details</th><th width="10%">Link</th></tr>
   <tr>
     <td><b>Gene Expression Analysis for Leukemia</b><br/><sub>Python · scikit-learn · Rat Swarm Optimisation · Ridge · Passive Aggressive · SGD</sub><br/><sub><i>📄 Presented at ICCCNT 2023, IIT Delhi · Domain: Healthcare</i></sub></td>
     <td>Machine learning pipeline for early leukemia detection from gene expression data. Rat Swarm Optimisation (RSO) for feature selection lifted classification accuracy to 98.12%. Compared Ridge, Passive Aggressive and Stochastic Gradient classifiers; Ridge with RSO reached 96.85% precision and a 94.84% Matthews correlation coefficient.</td>
@@ -84,8 +84,8 @@ I've published two research papers, on deep learning for sensitive data classifi
 
 ### Natural Language Processing (NLP)
 
-<table>
-  <tr><th>Project</th><th>Details</th><th>Link</th></tr>
+<table width="100%">
+  <tr><th width="30%">Project</th><th width="60%">Details</th><th width="10%">Link</th></tr>
   <tr>
     <td><b>Twitter Sentiment Analysis</b><br/><sub>Python · NLP · scikit-learn · Jupyter</sub></td>
     <td>Classifies tweets as positive or negative using machine learning models.</td>
@@ -100,8 +100,8 @@ I've published two research papers, on deep learning for sensitive data classifi
 
 ### Data Analytics & Visualisation
 
-<table>
-  <tr><th>Project</th><th>Details</th><th>Link</th></tr>
+<table width="100%">
+  <tr><th width="30%">Project</th><th width="60%">Details</th><th width="10%">Link</th></tr>
   <tr>
     <td><b>NutriMort: Nutritional Risk Factors in Child Mortality</b><br/><sub>Python · Jupyter</sub><br/><sub><i>Domain: Public Health</i></sub></td>
     <td>Data-driven discovery of nutritional risk factors linked to child mortality.</td>
@@ -121,8 +121,8 @@ I've published two research papers, on deep learning for sensitive data classifi
 
 ### Software Engineering
 
-<table>
-  <tr><th>Project</th><th>Details</th><th>Link</th></tr>
+<table width="100%">
+  <tr><th width="30%">Project</th><th width="60%">Details</th><th width="10%">Link</th></tr>
   <tr>
     <td><b>Flappy Bird</b><br/><sub>Python · Pygame</sub></td>
     <td>GUI arcade game where the player steers a bird between pipes, implementing collision detection with Pygame.</td>
@@ -142,7 +142,7 @@ I've published two research papers, on deep learning for sensitive data classifi
 
 ## Experience
 
-<table>
+<table width="100%">
   <tr>
     <td width="70%"><b>Associate Consultant</b> · Ernst & Young LLP</td>
     <td align="right"><i>Jul 2024 – Sep 2026</i></td>
@@ -159,7 +159,7 @@ I've published two research papers, on deep learning for sensitive data classifi
   </tr>
 </table>
 
-<table>
+<table width="100%">
   <tr>
     <td width="70%"><b>Data Analyst Intern</b> · Village Company</td>
     <td align="right"><i>Jan 2024 – Jun 2024</i></td>
@@ -174,7 +174,7 @@ I've published two research papers, on deep learning for sensitive data classifi
   </tr>
 </table>
 
-<table>
+<table width="100%">
   <tr>
     <td width="70%"><b>Data Scientist Intern</b> · Amazon</td>
     <td align="right"><i>Jul 2022 – Sep 2022</i></td>
@@ -195,18 +195,37 @@ I've published two research papers, on deep learning for sensitive data classifi
   <img src="https://skillicons.dev/icons?i=python,r,pytorch,tensorflow,sklearn,kafka,aws,fastapi,git,github&perline=10" alt="Skill icons" />
 </p>
 
-| Area | Skills |
-|---|---|
-| **Languages** | Python · SQL · R |
-| **Machine Learning & Deep Learning** | PyTorch · TensorFlow · scikit-learn · CNNs · LSTMs · Feature engineering · Model evaluation |
-| **LLMs & Agentic AI** | Hugging Face · LangChain · LangGraph · ChromaDB · Vector memory |
-| **Data Engineering** | Apache Spark · Databricks · Kafka · Amazon S3 · ETL pipelines · Data quality checks |
-| **Analysis & Visualisation** | pandas · NumPy · Matplotlib · Altair · Tableau · Power BI · Excel |
-| **Tools** | Git · GitHub · FastAPI · RapidMiner · Scrapy · Jupyter |
+<table width="100%">
+  <tr><th width="30%">Area</th><th width="70%">Skills</th></tr>
+  <tr>
+    <td width="30%"><b>Languages</b></td>
+    <td width="70%">Python · SQL · R</td>
+  </tr>
+  <tr>
+    <td width="30%"><b>Machine Learning & Deep Learning</b></td>
+    <td width="70%">PyTorch · TensorFlow · scikit-learn · CNNs · LSTMs · Feature engineering · Model evaluation</td>
+  </tr>
+  <tr>
+    <td width="30%"><b>LLMs & Agentic AI</b></td>
+    <td width="70%">Hugging Face · LangChain · LangGraph · ChromaDB · Vector memory</td>
+  </tr>
+  <tr>
+    <td width="30%"><b>Data Engineering</b></td>
+    <td width="70%">Apache Spark · Databricks · Kafka · Amazon S3 · ETL pipelines · Data quality checks</td>
+  </tr>
+  <tr>
+    <td width="30%"><b>Analysis & Visualisation</b></td>
+    <td width="70%">pandas · NumPy · Matplotlib · Altair · Tableau · Power BI · Excel</td>
+  </tr>
+  <tr>
+    <td width="30%"><b>Tools</b></td>
+    <td width="70%">Git · GitHub · FastAPI · RapidMiner · Scrapy · Jupyter</td>
+  </tr>
+</table>
 
 ## Education
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%">
       <b>🎓 Queen Mary University of London</b><br/>
@@ -227,7 +246,7 @@ I've published two research papers, on deep learning for sensitive data classifi
 
 ## Certifications & Achievements
 
-<table>
+<table width="100%">
   <tr>
     <th width="50%">📜 Certifications</th>
     <th width="50%">🏆 Achievements & Publications</th>
@@ -266,7 +285,7 @@ I've published two research papers, on deep learning for sensitive data classifi
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:4A9A9A,50:4E5FA0,100:9B2DAE&section=footer" alt="" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1D7A85,50:3F51A3,100:8A2BA8&section=footer" alt="" width="100%" />
 </p>
 
 <p align="center"><i>"Turning raw data into real decisions, one model at a time."</i></p>
