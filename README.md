@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1D7A85,50:3F51A3,100:8A2BA8&text=Manju%20Swaroop&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Building%20ML%20models,%20data%20pipelines%20and%20intelligent%20AI%20systems&descSize=18&descAlignY=60&section=header" alt="Manju Swaroop" width="100%" />
-</p>
-
-<h3 align="center">Welcome to my profile</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:1D7A85,50:3F51A3,100:8A2BA8&text=Manju%20Swaroop&fontColor=ffffff&fontSize=64&fontAlignY=40&desc=Building%20ML%20models,%20data%20pipelines%20and%20intelligent%20AI%20systems&descSize=18&descAlignY=64&section=header" alt="Manju Swaroop" width="100%" />
+  <h3>👋 Hi, welcome to my profile!</h3>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Machine+Learning+%C2%B7+Data+Engineering+%C2%B7+Agentic+AI;MSc+Data+Science+%40+Queen+Mary+University+of+London;Ex-Associate+Consultant+%40+EY;Open+to+Data+and+AI+roles" alt="Machine Learning · Data Engineering · Agentic AI" />
@@ -20,17 +19,17 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center"><a href="#about-me"><b>👤 About</b></a></td>
-    <td align="center"><a href="#all-projects"><b>🚀 Projects</b></a></td>
-    <td align="center"><a href="#experience"><b>💼 Experience</b></a></td>
-    <td align="center"><a href="#technical-skills"><b>🛠️ Skills</b></a></td>
-    <td align="center"><a href="#education"><b>🎓 Education</b></a></td>
-    <td align="center"><a href="#certifications--achievements"><b>🏆 Achievements</b></a></td>
+    <td align="center"><a href="#-about-me"><b>👤 About</b></a></td>
+    <td align="center"><a href="#-all-projects"><b>🚀 Projects</b></a></td>
+    <td align="center"><a href="#-experience"><b>💼 Experience</b></a></td>
+    <td align="center"><a href="#-technical-skills"><b>🧰 Skills</b></a></td>
+    <td align="center"><a href="#-education"><b>🎓 Education</b></a></td>
+    <td align="center"><a href="#-certifications--achievements"><b>🏆 Achievements</b></a></td>
   </tr>
 </table>
 </div>
 
-## About Me
+## 👤 About Me
 
 I'm an MSc Data Science student at **Queen Mary University of London** (2026 – 2027), focused on **machine learning, deep learning, NLP and large-scale data engineering**.
 
@@ -42,9 +41,9 @@ I've published two research papers, on deep learning for sensitive data classifi
 >
 > 🤝 **Let's collaborate:** I'm always happy to team up on AI, ML and data projects, research or open-source work. Feel free to connect on [LinkedIn](https://www.linkedin.com/in/manju-swaroop-v/) or drop me an [Email](mailto:manjuswaroop03@gmail.com).
 
-## All Projects
+## 🚀 All Projects
 
-### Agentic AI & LLMs
+### 🤖 Agentic AI & LLMs
 
 <table width="100%">
   <tr><th width="30%">Project</th><th width="60%">Details</th><th width="10%">Link</th></tr>
@@ -55,7 +54,7 @@ I've published two research papers, on deep learning for sensitive data classifi
   </tr>
 </table>
 
-### Deep Learning
+### 🧠 Deep Learning
 
 <table width="100%">
   <tr><th width="30%">Project</th><th width="60%">Details</th><th width="10%">Link</th></tr>
@@ -66,7 +65,7 @@ I've published two research papers, on deep learning for sensitive data classifi
   </tr>
 </table>
 
-### Machine Learning
+### 📈 Machine Learning
 
 <table width="100%">
   <tr><th width="30%">Project</th><th width="60%">Details</th><th width="10%">Link</th></tr>
@@ -82,7 +81,7 @@ I've published two research papers, on deep learning for sensitive data classifi
   </tr>
 </table>
 
-### Natural Language Processing (NLP)
+### 💬 Natural Language Processing (NLP)
 
 <table width="100%">
   <tr><th width="30%">Project</th><th width="60%">Details</th><th width="10%">Link</th></tr>
@@ -98,7 +97,7 @@ I've published two research papers, on deep learning for sensitive data classifi
   </tr>
 </table>
 
-### Data Analytics & Visualisation
+### 📊 Data Analytics & Visualisation
 
 <table width="100%">
   <tr><th width="30%">Project</th><th width="60%">Details</th><th width="10%">Link</th></tr>
@@ -119,7 +118,7 @@ I've published two research papers, on deep learning for sensitive data classifi
   </tr>
 </table>
 
-### Software Engineering
+### 🎮 Software Engineering
 
 <table width="100%">
   <tr><th width="30%">Project</th><th width="60%">Details</th><th width="10%">Link</th></tr>
@@ -140,7 +139,7 @@ I've published two research papers, on deep learning for sensitive data classifi
   </tr>
 </table>
 
-## Experience
+## 💼 Experience
 
 <table width="100%">
   <tr>
@@ -189,7 +188,7 @@ I've published two research papers, on deep learning for sensitive data classifi
   </tr>
 </table>
 
-## Technical Skills
+## 🧰 Technical Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,pytorch,tensorflow,sklearn,kafka,aws,fastapi,git,github&perline=10" alt="Skill icons" />
@@ -223,7 +222,7 @@ I've published two research papers, on deep learning for sensitive data classifi
   </tr>
 </table>
 
-## Education
+## 🎓 Education
 
 <table width="100%">
   <tr>
@@ -244,7 +243,7 @@ I've published two research papers, on deep learning for sensitive data classifi
   </tr>
 </table>
 
-## Certifications & Achievements
+## 🏆 Certifications & Achievements
 
 <table width="100%">
   <tr>
@@ -273,7 +272,7 @@ I've published two research papers, on deep learning for sensitive data classifi
   </tr>
 </table>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=manjuv03&hide_border=true&background=00000000" alt="GitHub Streak" />
