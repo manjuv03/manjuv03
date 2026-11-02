@@ -1,4 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:8B5A2B,100:6A2C55&text=Manju%20Swaroop&fontColor=ffffff&fontSize=64&fontAlignY=38&desc=Building%20ML%20models,%20data%20pipelines%20and%20intelligent%20AI%20systems&descSize=18&descAlignY=60&section=header" alt="Manju Swaroop" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Manju Swaroop</h1>
+<h3 align="center">Welcome to my profile</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Machine+Learning+%C2%B7+Data+Engineering+%C2%B7+Agentic+AI;MSc+Data+Science+%40+Queen+Mary+University+of+London;Ex-Associate+Consultant+%40+EY;Open+to+AI+and+ML+roles" alt="Machine Learning · Data Engineering · Agentic AI" />
