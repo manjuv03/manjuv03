@@ -36,7 +36,7 @@ I've published two research papers, on deep learning for sensitive data classifi
 
 > 💼 **Open to:** Data Scientist, Data Engineer, AI Engineer and Machine Learning Engineer roles
 >
-> 🤝 **Let's collaborate:** I'm always happy to team up on AI, ML and data projects, research or open-source work. Feel free to connect on [LinkedIn](https://www.linkedin.com/in/manju-swaroop-v/) or drop me an [email](mailto:manjuswaroop03@gmail.com).
+> 🤝 **Let's collaborate:** I'm always happy to team up on AI, ML and data projects, research or open-source work. Feel free to connect on [LinkedIn](https://www.linkedin.com/in/manju-swaroop-v/) or drop me an [Email](mailto:manjuswaroop03@gmail.com).
 
 ## All Projects
 
