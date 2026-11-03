@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Machine+Learning+%C2%B7+Data+Engineering+%C2%B7+Agentic+AI;MSc+Data+Science+%40+Queen+Mary+University+of+London;Ex-Associate+Consultant+%40+EY;Open+to+Data+and+AI+roles" alt="Machine Learning · Data Engineering · Agentic AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A371F7&center=true&vCenter=true&width=620&lines=Machine+Learning+%C2%B7+Data+Engineering+%C2%B7+Agentic+AI;MSc+Data+Science+%40+Queen+Mary+University+of+London;Ex-Associate+Consultant+%40+EY;Open+to+Data+and+AI+roles" alt="Machine Learning · Data Engineering · Agentic AI" />
 </p>
 
 <p align="center">📍 London, UK</p>
@@ -13,7 +13,7 @@
   <a href="mailto:manjuswaroop03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/manju-swaroop-v/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.hackerrank.com/profile/manjuswaroop03"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <img src="https://komarev.com/ghpvc/?username=manjuv03&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=manjuv03&label=Profile%20views&color=3F51A3&style=for-the-badge" alt="Profile views" />
 </p>
 
 <div align="center">
@@ -25,6 +25,7 @@
     <td align="center"><a href="#-technical-skills"><b>🧰 Skills</b></a></td>
     <td align="center"><a href="#-education"><b>🎓 Education</b></a></td>
     <td align="center"><a href="#-certifications--achievements"><b>🏆 Achievements</b></a></td>
+    <td align="center"><a href="#-lets-talk"><b>📫 Contact</b></a></td>
   </tr>
 </table>
 </div>
@@ -189,6 +190,7 @@ I've published two research papers, on deep learning for sensitive data classifi
       <ul>
         <li>Analysed retention and churn for 500+ premium clients with SQL to find key growth drivers</li>
         <li>Built predictive models and cohort analyses in Python to improve retention strategies for luxury goods</li>
+        <li>Wrote SQL queries to extract and clean customer data, and shared findings with the team to support business decisions</li>
       </ul>
     </td>
   </tr>
@@ -202,6 +204,7 @@ I've published two research papers, on deep learning for sensitive data classifi
   <tr>
     <td colspan="2">
       <ul>
+        <li>Applied data analysis and statistical techniques to build data-driven insights and solutions</li>
         <li>Built a dynamic pricing model from user and location history, increasing average transaction value by 10% and improving service-provider retention by 25%</li>
         <li>Cleaned and prepared user and location data in Python, and scraped competitor data to build visual insights</li>
       </ul>
@@ -363,7 +366,7 @@ I've published two research papers, on deep learning for sensitive data classifi
 
 ## 📫 Let's Talk
 
-Whether you're hiring, building something interesting, or just want to geek out about distributed systems or AI — hit me up.
+Whether you're hiring, building something interesting, or just want to geek out about data, ML or AI — hit me up.
 
 <p align="center">
   <a href="mailto:manjuswaroop03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
