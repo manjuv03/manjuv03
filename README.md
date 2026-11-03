@@ -345,6 +345,13 @@ I've published two research papers, on deep learning for sensitive data classifi
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manjuv03&theme=transparent" alt="Top Languages" height="165" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manjuv03/manjuv03/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/manjuv03/manjuv03/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+  </picture>
+</p>
+
 ## 📫 Let's Talk
 
 Whether you're hiring, building something interesting, or just want to geek out about distributed systems or AI — hit me up.
