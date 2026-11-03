@@ -41,6 +41,16 @@ I've published two research papers, on deep learning for sensitive data classifi
 >
 > 🤝 **Let's collaborate:** I'm always happy to team up on AI, ML and data projects, research or open-source work. Feel free to connect on [LinkedIn](https://www.linkedin.com/in/manju-swaroop-v/) or drop me an [Email](mailto:manjuswaroop03@gmail.com).
 
+## 🔭 Currently
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">🎓 <b>Studying</b><br/><sub>MSc Data Science @ Queen Mary University of London</sub></td>
+    <td width="33%" align="center">🔨 <b>Working on</b><br/><sub><a href="https://github.com/manjuv03/NutriMort">NutriMort</a>: nutritional risk factors in child mortality</sub></td>
+    <td width="33%" align="center">🌱 <b>Learning</b><br/><sub>MLOps and LLM fine-tuning</sub></td>
+  </tr>
+</table>
+
 ## 🚀 All Projects
 
 ### 🤖 Agentic AI & LLMs
@@ -81,22 +91,6 @@ I've published two research papers, on deep learning for sensitive data classifi
   </tr>
 </table>
 
-### 💬 Natural Language Processing (NLP)
-
-<table width="100%">
-  <tr><th width="30%">Project</th><th width="60%">Details</th><th width="10%">Link</th></tr>
-  <tr>
-    <td><b>Twitter Sentiment Analysis</b><br/><sub>Python · NLP · scikit-learn · Jupyter</sub></td>
-    <td>Classifies tweets as positive or negative using machine learning models.</td>
-    <td align="center"><a href="https://github.com/manjuv03/Sentiment-Analysis"><img src="https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a></td>
-  </tr>
-  <tr>
-    <td><b>Levenshtein Distance Finder</b><br/><sub>Python</sub></td>
-    <td>Computes the edit distance between two words: the number of insertions, deletions or substitutions needed to turn one into the other.</td>
-    <td align="center"><a href="https://github.com/manjuv03/Levenshtein-Distance-Finder"><img src="https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a></td>
-  </tr>
-</table>
-
 ### 📊 Data Analytics & Visualisation
 
 <table width="100%">
@@ -118,7 +112,31 @@ I've published two research papers, on deep learning for sensitive data classifi
   </tr>
 </table>
 
-### 🎮 Software Engineering
+### ➕ More Projects
+
+<details>
+<summary><b>💬 Natural Language Processing (NLP)</b> · 2 projects (click to expand)</summary>
+<br/>
+
+<table width="100%">
+  <tr><th width="30%">Project</th><th width="60%">Details</th><th width="10%">Link</th></tr>
+  <tr>
+    <td><b>Twitter Sentiment Analysis</b><br/><sub>Python · NLP · scikit-learn · Jupyter</sub></td>
+    <td>Classifies tweets as positive or negative using machine learning models.</td>
+    <td align="center"><a href="https://github.com/manjuv03/Sentiment-Analysis"><img src="https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a></td>
+  </tr>
+  <tr>
+    <td><b>Levenshtein Distance Finder</b><br/><sub>Python</sub></td>
+    <td>Computes the edit distance between two words: the number of insertions, deletions or substitutions needed to turn one into the other.</td>
+    <td align="center"><a href="https://github.com/manjuv03/Levenshtein-Distance-Finder"><img src="https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a></td>
+  </tr>
+</table>
+
+</details>
+
+<details>
+<summary><b>🎮 Software Engineering</b> · 3 projects (click to expand)</summary>
+<br/>
 
 <table width="100%">
   <tr><th width="30%">Project</th><th width="60%">Details</th><th width="10%">Link</th></tr>
@@ -138,6 +156,8 @@ I've published two research papers, on deep learning for sensitive data classifi
     <td align="center"><a href="https://github.com/manjuv03/Password-Generator"><img src="https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a></td>
   </tr>
 </table>
+
+</details>
 
 ## 💼 Experience
 
@@ -192,34 +212,74 @@ I've published two research papers, on deep learning for sensitive data classifi
 ## 🧰 Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,pytorch,tensorflow,sklearn,kafka,aws,fastapi,git,github&perline=10" alt="Skill icons" />
+  <img src="https://skillicons.dev/icons?i=py,r,postgres,pytorch,tensorflow,sklearn,anaconda,kafka,aws,fastapi,git,github&perline=12" alt="Skill icons" />
 </p>
 
 <table width="100%">
   <tr><th width="30%">Area</th><th width="70%">Skills</th></tr>
   <tr>
     <td width="30%"><b>Languages</b></td>
-    <td width="70%">Python · SQL · R</td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL" />
+      <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+    </td>
   </tr>
   <tr>
     <td width="30%"><b>Machine Learning & Deep Learning</b></td>
-    <td width="70%">PyTorch · TensorFlow · scikit-learn · CNNs · LSTMs · Feature engineering · Model evaluation</td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+      <img src="https://img.shields.io/badge/CNNs-555555?style=flat-square" alt="CNNs" />
+      <img src="https://img.shields.io/badge/LSTMs-555555?style=flat-square" alt="LSTMs" />
+      <img src="https://img.shields.io/badge/Feature%20engineering-555555?style=flat-square" alt="Feature engineering" />
+      <img src="https://img.shields.io/badge/Model%20evaluation-555555?style=flat-square" alt="Model evaluation" />
+    </td>
   </tr>
   <tr>
     <td width="30%"><b>LLMs & Agentic AI</b></td>
-    <td width="70%">Hugging Face · LangChain · LangGraph · ChromaDB · Vector memory</td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
+      <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square" alt="ChromaDB" />
+      <img src="https://img.shields.io/badge/Vector%20memory-555555?style=flat-square" alt="Vector memory" />
+    </td>
   </tr>
   <tr>
     <td width="30%"><b>Data Engineering</b></td>
-    <td width="70%">Apache Spark · Databricks · Kafka · Amazon S3 · ETL pipelines · Data quality checks</td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" />
+      <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks" />
+      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
+      <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3" />
+      <img src="https://img.shields.io/badge/ETL%20pipelines-555555?style=flat-square" alt="ETL pipelines" />
+      <img src="https://img.shields.io/badge/Data%20quality%20checks-555555?style=flat-square" alt="Data quality checks" />
+    </td>
   </tr>
   <tr>
     <td width="30%"><b>Analysis & Visualisation</b></td>
-    <td width="70%">pandas · NumPy · Matplotlib · Altair · Tableau · Power BI · Excel</td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib" />
+      <img src="https://img.shields.io/badge/Altair-4C78A8?style=flat-square" alt="Altair" />
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+    </td>
   </tr>
   <tr>
     <td width="30%"><b>Tools</b></td>
-    <td width="70%">Git · GitHub · FastAPI · RapidMiner · Scrapy · Jupyter</td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/RapidMiner-555555?style=flat-square" alt="RapidMiner" />
+      <img src="https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=scrapy&logoColor=white" alt="Scrapy" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+    </td>
   </tr>
 </table>
 
