@@ -295,20 +295,20 @@ I've published two research papers, on deep learning for sensitive data classifi
 
 <table width="100%">
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <b>🎓 Queen Mary University of London</b><br/>
       MSc Data Science<br/>
-      <sub>London, UK · <i>2026 – 2027</i></sub>
+      <sub>📍 London, UK · 🗓️ <i>2026 – 2027</i></sub>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <b>🎓 Dayananda Sagar University</b><br/>
       BTech, Computer Science and Engineering<br/>
-      <sub>Bengaluru, India · <i>2020 – 2024</i> · CGPA 8.82/10.0</sub>
+      <sub>📍 Bengaluru, India · 🗓️ <i>2020 – 2024</i> · ⭐ CGPA 8.82/10</sub>
     </td>
   </tr>
   <tr>
-    <td><sub>Machine Learning · NLP · Data Mining · Big Data Processing · Neural Networks and Deep Learning · Applied Statistics</sub></td>
-    <td><sub>Specialisation in Data Science</sub></td>
+    <td valign="top"><sub><b>Modules:</b> Machine Learning · NLP · Data Mining · Big Data Processing · Neural Networks and Deep Learning · Applied Statistics</sub></td>
+    <td valign="top"><sub><b>Specialisation:</b> Data Science</sub></td>
   </tr>
 </table>
 
