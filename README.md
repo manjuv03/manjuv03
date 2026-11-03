@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:1D7A85,50:3F51A3,100:8A2BA8&text=Manju%20Swaroop&fontColor=ffffff&fontSize=64&fontAlignY=40&desc=Building%20ML%20models,%20data%20pipelines%20and%20intelligent%20AI%20systems&descSize=18&descAlignY=64&section=header" alt="Manju Swaroop" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:1D7A85,50:3F51A3,100:8A2BA8&text=Manju%20Swaroop&fontColor=ffffff&fontSize=64&fontAlignY=40&desc=Building%20ML%20models,%20data%20pipelines%20and%20intelligent%20AI%20systems&descSize=22&descAlignY=64&section=header" alt="Manju Swaroop" width="100%" />
   <h3>👋 Hi, welcome to my profile!</h3>
 </div>
 
@@ -23,6 +23,10 @@
     <td align="center"><a href="#-all-projects"><b>🚀 Projects</b></a></td>
     <td align="center"><a href="#-experience"><b>💼 Experience</b></a></td>
     <td align="center"><a href="#-technical-skills"><b>🧰 Skills</b></a></td>
+  </tr>
+</table>
+<table>
+  <tr>
     <td align="center"><a href="#-education"><b>🎓 Education</b></a></td>
     <td align="center"><a href="#-certifications--achievements"><b>🏆 Achievements</b></a></td>
     <td align="center"><a href="#-lets-talk"><b>📫 Contact</b></a></td>
@@ -297,7 +301,7 @@ I've published two research papers, on deep learning for sensitive data classifi
     </td>
     <td width="50%">
       <b>🎓 Dayananda Sagar University</b><br/>
-      BTech, Computer Science and Engineering (Data Science)<br/>
+      BTech, Computer Science and Engineering<br/>
       <sub>Bengaluru, India · <i>2020 – 2024</i> · CGPA 8.82/10.0</sub>
     </td>
   </tr>
