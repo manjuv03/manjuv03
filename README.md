@@ -341,13 +341,6 @@ I've published two research papers, on deep learning for sensitive data classifi
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manjuv03&theme=github_dark" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manjuv03&theme=github" alt="Contributions" width="100%" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manjuv03&theme=github_dark" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manjuv03&theme=github" alt="GitHub Stats" height="165" />
   </picture>
