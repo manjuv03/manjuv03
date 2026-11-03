@@ -59,9 +59,9 @@ I've published two research papers, on deep learning for sensitive data classifi
 <table width="100%">
   <tr><th width="30%">Project</th><th width="60%">Details</th><th width="10%">Link</th></tr>
   <tr>
-    <td><b>Sensitive Data Classification using Deep Network with Sequential Models</b><br/><sub>Python · TensorFlow · CNN · LSTM · SVM · Logistic Regression · scikit-learn</sub><br/><sub><i>📄 Published at ICRTC 2023</i></sub></td>
+    <td><b>Sensitive Data Classification using Deep Network with Sequential Models</b><br/><sub>Python · TensorFlow · CNN · LSTM · SVM · Logistic Regression · scikit-learn</sub><br/><sub><i>📄 Published at ICRTC 2023 (Springer)</i></sub></td>
     <td>Deep learning models (CNN and LSTM) fine-tuned to separate sensitive from non-sensitive data. Benchmarked against SVM and Logistic Regression: the CNN reached 97.5% accuracy vs 84.02% for SVM, more than 13.5 points ahead of traditional methods. Trained for 500 epochs with binary cross-entropy and Adam, giving smooth convergence and limited overfitting.</td>
-    <td align="center"><a href="https://github.com/manjuv03/Sensitive-Data-Classification-using-Deep-Learning"><img src="https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a></td>
+    <td align="center"><a href="https://github.com/manjuv03/Sensitive-Data-Classification-using-Deep-Learning"><img src="https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a><br/><a href="https://link.springer.com/chapter/10.1007/978-981-97-1724-8_34"><img src="https://img.shields.io/badge/Paper-EB1923?style=flat&logo=springer&logoColor=white" alt="Springer paper" /></a></td>
   </tr>
 </table>
 
@@ -70,9 +70,9 @@ I've published two research papers, on deep learning for sensitive data classifi
 <table width="100%">
   <tr><th width="30%">Project</th><th width="60%">Details</th><th width="10%">Link</th></tr>
   <tr>
-    <td><b>Gene Expression Analysis for Leukemia</b><br/><sub>Python · scikit-learn · Rat Swarm Optimisation · Ridge · Passive Aggressive · SGD</sub><br/><sub><i>📄 Presented at ICCCNT 2023, IIT Delhi · Domain: Healthcare</i></sub></td>
+    <td><b>Gene Expression Analysis for Leukemia</b><br/><sub>Python · scikit-learn · Rat Swarm Optimisation · Ridge · Passive Aggressive · SGD</sub><br/><sub><i>📄 Published at ICCCNT 2023, IIT Delhi (IEEE) · Domain: Healthcare</i></sub></td>
     <td>Machine learning pipeline for early leukemia detection from gene expression data. Rat Swarm Optimisation (RSO) for feature selection lifted classification accuracy to 98.12%. Compared Ridge, Passive Aggressive and Stochastic Gradient classifiers; Ridge with RSO reached 96.85% precision and a 94.84% Matthews correlation coefficient.</td>
-    <td align="center">—</td>
+    <td align="center"><a href="https://ieeexplore.ieee.org/document/10307762"><img src="https://img.shields.io/badge/Paper-00629B?style=flat&logo=ieee&logoColor=white" alt="IEEE paper" /></a></td>
   </tr>
   <tr>
     <td><b>Decision Tree Classifier</b><br/><sub>Python · scikit-learn · Jupyter</sub></td>
@@ -264,8 +264,8 @@ I've published two research papers, on deep learning for sensitive data classifi
     <td valign="top">
       <ul>
         <li>🏅 <b>Client Extraordinaire Award</b>, Ernst & Young LLP</li>
-        <li>Presented <i>Gene Expression Analysis for Leukemia</i> at <b>ICCCNT 2023, IIT Delhi</b></li>
-        <li>Published <i>Sensitive Data Classification using Deep Network with Sequential Models</i> at <b>ICRTC 2023, Ghaziabad</b></li>
+        <li>📄 Published <a href="https://ieeexplore.ieee.org/document/10307762"><i>Gene Expression Analysis for Leukemia</i></a> at <b>ICCCNT 2023, IIT Delhi</b> (IEEE)</li>
+        <li>📄 Published <a href="https://link.springer.com/chapter/10.1007/978-981-97-1724-8_34"><i>Sensitive Data Classification using Deep Network with Sequential Models</i></a> at <b>ICRTC 2023, Ghaziabad</b> (Springer)</li>
         <li><b>NASA International Space Apps Global Nominee</b> (2022 and 2023)</li>
         <li><b>1st place, Altair Expo</b>, Dayananda Sagar University<br/><sub>Predictive churn modelling in RapidMiner</sub></li>
         <li><b>Neo Coding Arena Challenge</b> winner</li>
