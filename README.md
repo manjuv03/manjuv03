@@ -12,6 +12,7 @@
 <p align="center">
   <a href="mailto:manjuswaroop03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/manju-swaroop-v/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://manjuv03.github.io/"><img src="https://img.shields.io/badge/Portfolio-8A2BA8?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.hackerrank.com/profile/manjuswaroop03"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
   <img src="https://komarev.com/ghpvc/?username=manjuv03&label=Profile%20views&color=3F51A3&style=for-the-badge" alt="Profile views" />
 </p>
@@ -368,6 +369,7 @@ Whether you're hiring, building something interesting, or just want to geek out 
 <p align="center">
   <a href="mailto:manjuswaroop03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/manju-swaroop-v/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://manjuv03.github.io/"><img src="https://img.shields.io/badge/Portfolio-8A2BA8?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <p align="center">
