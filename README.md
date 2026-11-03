@@ -338,8 +338,8 @@ I've published two research papers, on deep learning for sensitive data classifi
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=manjuv03&hide_border=true&background=00000000&ring=8A2BA8&fire=1D7A85&currStreakLabel=8A2BA8&theme=dark&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=C9D1D9&dates=8B949E" />
-    <img src="https://streak-stats.demolab.com?user=manjuv03&hide_border=true&background=00000000&ring=8A2BA8&fire=1D7A85&currStreakLabel=8A2BA8&theme=default&sideNums=24292F&currStreakNum=24292F&sideLabels=57606A&dates=57606A" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=manjuv03&hide_border=true&bg_color=00000000&area=true&line=8A2BA8&point=1D7A85&area_color=8A2BA8&custom_title=Contribution%20Graph&color=C9D1D9&title_color=FFFFFF" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=manjuv03&hide_border=true&bg_color=00000000&area=true&line=8A2BA8&point=1D7A85&area_color=8A2BA8&custom_title=Contribution%20Graph&color=24292F&title_color=24292F" alt="Contribution graph" width="100%" />
   </picture>
 </p>
 
