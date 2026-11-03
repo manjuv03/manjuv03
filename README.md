@@ -153,6 +153,7 @@ I've published two research papers, on deep learning for sensitive data classifi
         <li>Built AI-driven classification models and automated data workflows, using Kafka to stream data between systems, for compliance processes (SPL Screening, Legal Control) in a greenfield landscape</li>
         <li>Processed, cleaned and validated 120+ country-specific classification datasets, storing raw and processed data in Amazon S3 with data quality checks for model evaluation and audits</li>
         <li>Prepared features, trained and tested ML models, and explained results to team leads and clients in plain language</li>
+        <li>🏅 Received EY's <b>Client Extraordinaire Award</b></li>
       </ul>
     </td>
   </tr>
@@ -262,6 +263,7 @@ I've published two research papers, on deep learning for sensitive data classifi
     </td>
     <td valign="top">
       <ul>
+        <li>🏅 <b>Client Extraordinaire Award</b>, Ernst & Young LLP</li>
         <li>Presented <i>Gene Expression Analysis for Leukemia</i> at <b>ICCCNT 2023, IIT Delhi</b></li>
         <li>Published <i>Sensitive Data Classification using Deep Network with Sequential Models</i> at <b>ICRTC 2023, Ghaziabad</b></li>
         <li><b>NASA International Space Apps Global Nominee</b> (2022 and 2023)</li>
