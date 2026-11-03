@@ -341,8 +341,8 @@ I've published two research papers, on deep learning for sensitive data classifi
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=manjuv03&hide_border=true&bg_color=00000000&area=true&line=8A2BA8&point=1D7A85&area_color=8A2BA8&custom_title=Contribution%20Graph&color=C9D1D9&title_color=FFFFFF" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=manjuv03&hide_border=true&bg_color=00000000&area=true&line=8A2BA8&point=1D7A85&area_color=8A2BA8&custom_title=Contribution%20Graph&color=24292F&title_color=24292F" alt="Contribution graph" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manjuv03&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manjuv03&theme=github" alt="Contributions" width="100%" />
   </picture>
 </p>
 
