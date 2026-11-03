@@ -337,12 +337,21 @@ I've published two research papers, on deep learning for sensitive data classifi
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=manjuv03&hide_border=true&background=00000000" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=manjuv03&hide_border=true&background=00000000&ring=8A2BA8&fire=1D7A85&currStreakLabel=8A2BA8&theme=dark&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=C9D1D9&dates=8B949E" />
+    <img src="https://streak-stats.demolab.com?user=manjuv03&hide_border=true&background=00000000&ring=8A2BA8&fire=1D7A85&currStreakLabel=8A2BA8&theme=default&sideNums=24292F&currStreakNum=24292F&sideLabels=57606A&dates=57606A" alt="GitHub Streak" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manjuv03&theme=transparent" alt="GitHub Stats" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manjuv03&theme=transparent" alt="Top Languages" height="165" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manjuv03&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manjuv03&theme=github" alt="GitHub Stats" height="165" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manjuv03&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manjuv03&theme=github" alt="Top Languages" height="165" />
+  </picture>
 </p>
 
 <p align="center">
