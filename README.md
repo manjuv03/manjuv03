@@ -127,8 +127,8 @@ I've published two research papers, on deep learning for sensitive data classifi
 <table width="100%">
   <tr><th width="30%">Project</th><th width="60%">Details</th><th width="10%">Link</th></tr>
   <tr>
-    <td><b>Twitter Sentiment Analysis</b><br/><sub>Python · NLP · scikit-learn · Jupyter</sub></td>
-    <td>Classifies tweets as positive or negative using machine learning models.</td>
+    <td><b>Twitter Sentiment Analysis</b><br/><sub>Python · NLP · NLTK · scikit-learn · Jupyter</sub></td>
+    <td>Detects racist and sexist tweets in 31,962 labelled tweets (7% hate speech). Text cleaned with stop-word removal and stemming, turned into bag-of-words features; a random forest reached 95.3% validation accuracy and an F1 of 0.62 on the minority class.</td>
     <td align="center"><a href="https://github.com/manjuv03/Sentiment-Analysis"><img src="https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a></td>
   </tr>
   <tr>
