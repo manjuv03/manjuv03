@@ -53,7 +53,7 @@ I've published two research papers, on deep learning for sensitive data classifi
 <table width="100%">
   <tr>
     <td width="33%" align="center">🎓 <b>Studying</b><br/><sub>MSc Data Science @ Queen Mary University of London</sub></td>
-    <td width="33%" align="center">🔨 <b>Working on</b><br/><sub><a href="https://github.com/manjuv03/NutriMort">NutriMort</a>: nutritional risk factors in child mortality</sub></td>
+    <td width="33%" align="center">🔨 <b>Working on</b><br/><sub><a href="https://manjuv03.github.io/nutrimort/">NutriMort</a>: nutritional risk factors in child mortality</sub></td>
     <td width="33%" align="center">🌱 <b>Learning</b><br/><sub>MLOps and LLM fine-tuning</sub></td>
   </tr>
 </table>
@@ -103,9 +103,9 @@ I've published two research papers, on deep learning for sensitive data classifi
 <table width="100%">
   <tr><th width="30%">Project</th><th width="60%">Details</th><th width="10%">Link</th></tr>
   <tr>
-    <td><b>NutriMort: Nutritional Risk Factors in Child Mortality</b><br/><sub>Python · Jupyter</sub><br/><sub><i>Domain: Public Health</i></sub></td>
-    <td>Data-driven discovery of nutritional risk factors linked to child mortality.</td>
-    <td align="center"><a href="https://github.com/manjuv03/NutriMort"><img src="https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a></td>
+    <td><b>NutriMort: Nutritional Risk Factors in Child Mortality</b><br/><sub>Python · pandas · scikit-learn · k-means · k-NN · Random Forest · OLAP</sub><br/><sub><i>Domain: Public Health</i></sub></td>
+    <td>Knowledge discovery (KDD) study of how nutrition indicators relate to child mortality in the UK, combining two WHO datasets (1949–2024). Covers cleaning and integration, PCA and MDS, a data-warehouse schema with OLAP operations, and data mining. k-means splits the years into distinct health periods (silhouette 0.637), k-NN predicts high or low infant mortality with 95.7% test accuracy (vs a 47.8% baseline), and low birth weight tracks neonatal mortality (r = 0.92). A project website runs the model live and accepts any country's WHO files.</td>
+    <td align="center"><a href="https://github.com/manjuv03/NutriMort"><img src="https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a><br/><a href="https://manjuv03.github.io/nutrimort/"><img src="https://img.shields.io/badge/Live-1D7A85?style=flat&logo=githubpages&logoColor=white" alt="Live site" /></a></td>
   </tr>
   <tr>
     <td><b>Layoff Analysis and Modelling</b><br/><sub>R · Statistics · Jupyter</sub></td>
