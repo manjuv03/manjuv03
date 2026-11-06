@@ -221,7 +221,7 @@ I've published two research papers, on deep learning for sensitive data classifi
 ## 🧰 Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,r,postgres,pytorch,tensorflow,sklearn,anaconda,kafka,aws,fastapi,git,github&perline=12" alt="Skill icons" />
+  <img src="https://skillicons.dev/icons?i=py,r,postgres,sqlite,js,html,css,pytorch,tensorflow,sklearn,anaconda,kafka,aws,fastapi,githubactions,git,github,vscode&perline=9" alt="Skill icons" />
 </p>
 
 <table width="100%">
@@ -232,28 +232,57 @@ I've published two research papers, on deep learning for sensitive data classifi
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" alt="SQL" />
       <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/HTML%20%2F%20CSS-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML / CSS" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
     </td>
   </tr>
   <tr>
-    <td width="30%"><b>Machine Learning & Deep Learning</b></td>
+    <td width="30%"><b>Machine Learning</b></td>
     <td width="70%">
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-      <img src="https://img.shields.io/badge/CNNs-555555?style=flat-square" alt="CNNs" />
-      <img src="https://img.shields.io/badge/LSTMs-555555?style=flat-square" alt="LSTMs" />
+      <img src="https://img.shields.io/badge/Random%20Forest-555555?style=flat-square" alt="Random Forest" />
+      <img src="https://img.shields.io/badge/k--means-555555?style=flat-square" alt="k-means" />
+      <img src="https://img.shields.io/badge/k--NN-555555?style=flat-square" alt="k-NN" />
+      <img src="https://img.shields.io/badge/Decision%20trees-555555?style=flat-square" alt="Decision trees" />
+      <img src="https://img.shields.io/badge/PCA%20%2F%20MDS-555555?style=flat-square" alt="PCA / MDS" />
+      <img src="https://img.shields.io/badge/Cross--validation-555555?style=flat-square" alt="Cross-validation" />
       <img src="https://img.shields.io/badge/Feature%20engineering-555555?style=flat-square" alt="Feature engineering" />
       <img src="https://img.shields.io/badge/Model%20evaluation-555555?style=flat-square" alt="Model evaluation" />
     </td>
   </tr>
   <tr>
+    <td width="30%"><b>Deep Learning</b></td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/TensorFlow%20%2F%20Keras-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow / Keras" />
+      <img src="https://img.shields.io/badge/CNNs-555555?style=flat-square" alt="CNNs" />
+      <img src="https://img.shields.io/badge/LSTMs-555555?style=flat-square" alt="LSTMs" />
+      <img src="https://img.shields.io/badge/Data%20augmentation-555555?style=flat-square" alt="Data augmentation" />
+    </td>
+  </tr>
+  <tr>
     <td width="30%"><b>LLMs & Agentic AI</b></td>
     <td width="70%">
-      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
       <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
       <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
-      <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square" alt="ChromaDB" />
-      <img src="https://img.shields.io/badge/Vector%20memory-555555?style=flat-square" alt="Vector memory" />
+      <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini API" />
+      <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" />
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+      <img src="https://img.shields.io/badge/sentence--transformers-555555?style=flat-square" alt="sentence-transformers" />
+      <img src="https://img.shields.io/badge/Chroma%20DB-FF6446?style=flat-square" alt="Chroma DB" />
+      <img src="https://img.shields.io/badge/Vector%20search-555555?style=flat-square" alt="Vector search" />
+      <img src="https://img.shields.io/badge/Tool%20calling-555555?style=flat-square" alt="Tool calling" />
+      <img src="https://img.shields.io/badge/Long--term%20memory-555555?style=flat-square" alt="Long-term memory" />
+    </td>
+  </tr>
+  <tr>
+    <td width="30%"><b>NLP</b></td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/NLTK-154F5B?style=flat-square" alt="NLTK" />
+      <img src="https://img.shields.io/badge/Text%20preprocessing-555555?style=flat-square" alt="Text preprocessing" />
+      <img src="https://img.shields.io/badge/Bag%20of%20words-555555?style=flat-square" alt="Bag of words" />
+      <img src="https://img.shields.io/badge/Tesseract%20OCR-555555?style=flat-square" alt="Tesseract OCR" />
     </td>
   </tr>
   <tr>
@@ -264,6 +293,7 @@ I've published two research papers, on deep learning for sensitive data classifi
       <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
       <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3" />
       <img src="https://img.shields.io/badge/ETL%20pipelines-555555?style=flat-square" alt="ETL pipelines" />
+      <img src="https://img.shields.io/badge/Data%20warehousing%20%2F%20OLAP-555555?style=flat-square" alt="Data warehousing / OLAP" />
       <img src="https://img.shields.io/badge/Data%20quality%20checks-555555?style=flat-square" alt="Data quality checks" />
     </td>
   </tr>
@@ -272,11 +302,26 @@ I've published two research papers, on deep learning for sensitive data classifi
     <td width="70%">
       <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+      <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
       <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib" />
+      <img src="https://img.shields.io/badge/seaborn-4C72B0?style=flat-square" alt="seaborn" />
       <img src="https://img.shields.io/badge/Altair-4C78A8?style=flat-square" alt="Altair" />
       <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
       <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
+      <img src="https://img.shields.io/badge/Statistics-555555?style=flat-square" alt="Statistics" />
+    </td>
+  </tr>
+  <tr>
+    <td width="30%"><b>Backend & Deployment</b></td>
+    <td width="70%">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest" />
+      <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+      <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages" />
+      <img src="https://img.shields.io/badge/Firebase%20Hosting-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase Hosting" />
+      <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow.js" />
     </td>
   </tr>
   <tr>
@@ -284,10 +329,11 @@ I've published two research papers, on deep learning for sensitive data classifi
     <td width="70%">
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
+      <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" alt="Google Colab" />
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square" alt="VS Code" />
       <img src="https://img.shields.io/badge/RapidMiner-555555?style=flat-square" alt="RapidMiner" />
       <img src="https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=scrapy&logoColor=white" alt="Scrapy" />
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
     </td>
   </tr>
 </table>
