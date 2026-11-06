@@ -65,9 +65,9 @@ I've published two research papers, on deep learning for sensitive data classifi
 <table width="100%">
   <tr><th width="30%">Project</th><th width="60%">Details</th><th width="10%">Link</th></tr>
   <tr>
-    <td><b>Personalised AI Assistant with Contextual Recall</b><br/><sub>Python · LangChain · LangGraph · ChromaDB · FastAPI</sub></td>
-    <td>Conversational AI agent that gives personalised, coherent responses by combining vector-based memory (ChromaDB) with contextual memory, improving response continuity by over 85%. Runs locally behind FastAPI with real-time interaction logs and memory visualisations, averaging sub-300ms responses across 100+ test cases.</td>
-    <td align="center">—</td>
+    <td><b>Personalised AI Assistant with Contextual Recall</b><br/><sub>Python · LangGraph · Chroma DB · sentence-transformers · FastAPI · Gemini</sub><br/><sub><i>37 automated tests · CI on every push</i></sub></td>
+    <td>Chat assistant that remembers users across conversations. Durable facts are embedded with MiniLM and stored in Chroma DB, re-ranked by similarity, importance and recency, and the current chat is kept short with a running summary. The assistant can save, search and forget memories through tools, and a side panel shows exactly what it used. In a new chat it answered 100% of 20 questions about earlier conversations, against 10% with memory off, with a 0.94 s mean reply and 74 ms median recall.</td>
+    <td align="center"><a href="https://github.com/manjuv03/Personalized-AI-Assistant-with-Contextual-Recall"><img src="https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a></td>
   </tr>
 </table>
 
