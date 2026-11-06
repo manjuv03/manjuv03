@@ -67,7 +67,7 @@ I've published two research papers, on deep learning for sensitive data classifi
   <tr>
     <td><b>Personalised AI Assistant with Contextual Recall</b><br/><sub>Python · LangGraph · Chroma DB · sentence-transformers · FastAPI · Gemini</sub><br/><sub><i>37 automated tests · CI on every push</i></sub></td>
     <td>Chat assistant that remembers users across conversations. Durable facts are embedded with MiniLM and stored in Chroma DB, re-ranked by similarity, importance and recency, and the current chat is kept short with a running summary. The assistant can save, search and forget memories through tools, and a side panel shows exactly what it used. In a new chat it answered 100% of 20 questions about earlier conversations, against 10% with memory off, with a 0.94 s mean reply and 74 ms median recall.</td>
-    <td align="center"><a href="https://github.com/manjuv03/Personalized-AI-Assistant-with-Contextual-Recall"><img src="https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a></td>
+    <td align="center"><a href="https://github.com/manjuv03/Personalized-AI-Assistant-with-Contextual-Recall"><img src="https://img.shields.io/badge/Code-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a><br/><a href="https://medium.com/@manjuswaroop03/i-gave-my-ai-assistant-a-long-term-memory-without-it-it-answered-10-of-questions-with-it-100-48af933c834a"><img src="https://img.shields.io/badge/Article-000000?style=flat&logo=medium&logoColor=white" alt="Medium article" /></a></td>
   </tr>
 </table>
 
